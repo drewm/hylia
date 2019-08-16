@@ -3,9 +3,9 @@
   "name": "Hylia drewm test",
   "shortDesc": "Hylia is a lightweight Eleventy starter kit to help you to create your own blog or personal website.",
   "url": "https://clever-kilby-2e403b.netlify.com",
-  "authorEmail": "me@andy-bell.design",
-  "authorHandle": "@andybelldesign",
-  "authorName": "Andy Bell",
+  "authorEmail": "drew.mclellan@gmail.com",
+  "authorHandle": "@drewm",
+  "authorName": "Drew McLellan",
   "enableThirdPartyComments": false,
   "maxPostsPerPage": 10
 }
