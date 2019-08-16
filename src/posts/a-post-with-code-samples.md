@@ -1,12 +1,12 @@
 ---
 title: A post with code samples
-date: '2019-06-18'
+date: 2019-06-18T23:00:00.000Z
 tags:
   - demo-content
   - code
   - blog
 ---
-The best way to demo a code post is to display a real life post, so check out this one from [andy-bell.design](https://andy-bell.design/wrote/creating-a-full-bleed-css-utility/) about a full bleed CSS utility.
+The best way to demo a code post is to display a real life piggywig, so check out this one from [andy-bell.design](https://andy-bell.design/wrote/creating-a-full-bleed-css-utility/) about a full bleed CSS utility.
 
 - - -
 
