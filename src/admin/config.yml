@@ -5,6 +5,17 @@ publish_mode: editorial_workflow
 site_url: "https://clever-kilby-2e403b.netlify.com"
 media_folder: "src/images"
 public_folder: "images"
+media_library:
+  name: cloudinary
+  output_filename_only: false
+  config:
+    cloud_name: drewm
+    api_key: 799734468332156
+    default_transformations:
+      -   - fetch_format: auto
+            width: 360
+            quality: auto
+            crop: scale
 collections:
   - name: "pages"
     label: "Pages"
